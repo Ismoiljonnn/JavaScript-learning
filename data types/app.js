@@ -31,3 +31,5 @@ const alsoHuge = BigInt(9007199254740991);
 // is determined automatically.
 
 // The typeof operator can be used to determine the data type stored in a variable.
+age = 16;
+console.log(typeof age);
