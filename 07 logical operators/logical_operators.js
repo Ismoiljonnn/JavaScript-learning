@@ -52,4 +52,3 @@ checkBootstrapEligibility(true, true);   // Eligible for Bootstrap
 checkBootstrapEligibility(true, false);  // Requires CSS
 checkBootstrapEligibility(false, true);  // Requires HTML
 checkBootstrapEligibility(false, false); // Neither started
-
