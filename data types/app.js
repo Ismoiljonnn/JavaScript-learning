@@ -29,3 +29,5 @@ const alsoHuge = BigInt(9007199254740991);
 // JavaScript features dynamic typing, allowing values to be stored without
 // explicitly specifying the variable's data type. The data type of a variable
 // is determined automatically.
+
+// The typeof operator can be used to determine the data type stored in a variable.
