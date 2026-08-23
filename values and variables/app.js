@@ -1,4 +1,4 @@
-let firstname = "Ismoiljon";
+let firstName = "Ismoiljon";
 let surname = "Joraboyev";
 let age = 16;
 
