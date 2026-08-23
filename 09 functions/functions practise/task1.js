@@ -25,4 +25,4 @@ const evenOrOddArrow = (number) => {
   } else {
     console.log(`${number} is odd`);
   }
-}
+} 
