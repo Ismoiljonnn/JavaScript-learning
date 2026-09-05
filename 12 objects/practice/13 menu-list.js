@@ -6,7 +6,7 @@ let cheapestPrice = Infinity;
 
 for (const item in menu) {
   const price = menu[item];
-  console.log(${index}.  -  sum);
+  console.log($index.  -  sum);
   
   totalCount++;
   if (price < cheapestPrice) {
