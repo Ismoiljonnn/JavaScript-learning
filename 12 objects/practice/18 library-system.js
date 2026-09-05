@@ -11,10 +11,10 @@ const library = {
     }
     const book = this.books[id];
     if (book.isBorrowed) {
-      return ${book.title} is already borrowed;
+      return $(.title) is already borrowed;
     }
     book.isBorrowed = true;
-    return ${book.title} issued;
+    return $(.title) issued;
   },
 
   returnBook: function (id) {
@@ -23,10 +23,10 @@ const library = {
     }
     const book = this.books[id];
     if (!book.isBorrowed) {
-      return ${book.title} was not borrowed;
+      return $(.title) was not borrowed;
     }
     book.isBorrowed = false;
-    return ${book.title} returned;
+    return $(.title) returned;
   },
 
   getAvailableBooks: function () {
