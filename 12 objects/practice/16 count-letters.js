@@ -19,7 +19,7 @@ function findMostFrequent(frequency) {
     }
   }
 
-  return ${mostFrequentChar} ( times);
+  return $mostFrequentChar ( times);
 }
 
 console.log(countLetters("programming"));
