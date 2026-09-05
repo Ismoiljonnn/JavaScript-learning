@@ -4,7 +4,7 @@ function convertToSum(amount, currency) {
   if (currency in exchangeRates) {
     return amount * exchangeRates[currency];
   }
-  return Currency not found: ;
+  return Currency not found: $currency;
 }
 
 console.log(convertToSum(100, "USD"));
