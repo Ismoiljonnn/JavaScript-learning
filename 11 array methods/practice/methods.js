@@ -9,3 +9,4 @@ array.filter((value, index, array) => {return value % 2 === 1;}); // returns fil
 array.join("something"); // adds something after each element
 array.sort((a, b) => {a + b}); // sorts the array with given function
 array.findIndex((value) => value === 5); // return index of array element
+array.slice(0, 5); // slices some part
