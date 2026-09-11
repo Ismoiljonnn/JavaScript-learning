@@ -3,4 +3,4 @@ array.unshift(0); // add to the at the start
 array.pop(); // removing last element
 array.shift(); // removing first element
 array.reverse(); // reversing the array
-array.includes(); // searching svalue, returns true or false
+array.includes(); // searching a value, returns true or false
