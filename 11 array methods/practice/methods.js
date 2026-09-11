@@ -8,3 +8,4 @@ array.find((value, index) => {return value === 7;}); // returns value or undefin
 array.filter((value, index, array) => {return value % 2 === 1;}); // returns filtered values
 array.join("something"); // adds something after each element
 array.sort((a, b) => {a + b}); // sorts the array with given function
+array.findIndex((value) => value === 5); // return index of array element
