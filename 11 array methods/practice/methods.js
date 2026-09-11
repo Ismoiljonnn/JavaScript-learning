@@ -1,0 +1,1 @@
+array.push(6); // add to at the end
