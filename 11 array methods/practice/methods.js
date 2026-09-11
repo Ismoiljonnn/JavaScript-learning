@@ -4,3 +4,4 @@ array.pop(); // removing last element
 array.shift(); // removing first element
 array.reverse(); // reversing the array
 array.includes(); // searching a value, returns true or false
+array.find((value, index) => {return value === 7;}); // returns value or undefined
