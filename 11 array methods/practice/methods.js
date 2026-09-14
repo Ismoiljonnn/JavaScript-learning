@@ -11,3 +11,4 @@ array.sort((a, b) => {a + b}); // sorts the array with given function
 array.findIndex((value) => value === 5); // return index of array element
 array.slice(0, 5); // slices some part
 array.splice(0, 4); // deletes some part
+array.reduce((prevValue, value, index) => {}, 0) // reduces array into a single value
