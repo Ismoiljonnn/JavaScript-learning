@@ -16,3 +16,4 @@ new Array(amount) // creates an empty array with 'amount' length
 array.fill(value) // fills all array elements with 'value'
 new Array(5).fill(0); // creates an array of 5 elements and fills with 0
 array.every((value) => {value > 0}); // checks if all elements satisfy the condition
+array.some((value) => {value > 0}); // checks if at least one element satisfies the condition
