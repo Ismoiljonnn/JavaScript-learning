@@ -1,5 +1,6 @@
 // JavaScript Modules -- used to break code into separate reusable files.
 // Helps maintain clean code architecture and prevents polluting the global scope.
+
 // It enables code reusability, maintainability, and encapsulation across large applications.
 
 // Conceptual overview:
