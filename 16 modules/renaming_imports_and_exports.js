@@ -5,6 +5,6 @@ const internalName = 'Secret Code';
 export { internalName as publicName };
 
 // Renaming during import
-import { fetchData as getData } from './02. named_exports.js';
+import { fetchData as getData } from './named_exports.js';
 
 console.log(getData());
